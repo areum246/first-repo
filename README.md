@@ -20,8 +20,10 @@ or, just clone and `$ npm i & npm start`
 animals = []
 animals.append('kangaroo;)
 ```
+
 ## Regerences
 
 [Google](https://www.google.com)
-
 ![A man is sitting on the chair](/imgs/man-on-the-chair.jpg)
+
+## Contributing
